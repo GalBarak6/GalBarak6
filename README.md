@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67))
+![This is an image](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1380&t=st=1660115291~exp=1660115891~hmac=0b347f9dbdae8b1d3f5880d516a7c066a2345cf4b1eb75bf63c4c2066f82b33f)
 <h1 align="center">Hi there👋, I'm Gal</h1>
 <h3 align="center">I'm looking for my next challenge in Full stack/ Frontend web development positions.</h3>
 
