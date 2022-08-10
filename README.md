@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![This is an image](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1380&t=st=1660115291~exp=1660115891~hmac=0b347f9dbdae8b1d3f5880d516a7c066a2345cf4b1eb75bf63c4c2066f82b33f)
+![This is an image](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1660115359~exp=1660115959~hmac=89947a6b74b51fbad203e45990bafead08ad02c1e68d0b5924569437c1006a60)
 <h1 align="center">Hi there👋, I'm Gal</h1>
 <h3 align="center">I'm looking for my next challenge in Full stack/ Frontend web development positions.</h3>
 
