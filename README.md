@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <h1 align="center">Hi there👋, I'm Gal</h1>
 <h3 align="center">I'm looking for my next challenge in Full stack/ Frontend web development positions.</h3>
 
